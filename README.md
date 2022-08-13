@@ -7,5 +7,5 @@ npm instal
 ```
 
 ```
-note app.js
+node app.js
 ```
